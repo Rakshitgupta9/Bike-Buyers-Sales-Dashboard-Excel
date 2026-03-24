@@ -1,20 +1,20 @@
-# 🚴 Bike Buyers Dashboard (Excel Data Analysis Project)
+# 🚴 Bike Buyers Sales Dashboard (Excel Data Analysis Project)
 
 ## 📊 Project Overview
 
-This project focuses on analyzing customer bike purchase behavior using Microsoft Excel.
-The dataset contains demographic and lifestyle information such as income, age, marital status, education, region, and commute distance.
+This project analyzes customer bike purchase behavior using Microsoft Excel.
+The dataset includes demographic and lifestyle attributes such as income, age, education, marital status, region, and commute distance.
 
-The objective of this project is to clean the raw data, perform exploratory analysis using Pivot Tables, and build an interactive dashboard to generate business insights.
+The goal of this project was to perform data cleaning, exploratory data analysis using Pivot Tables, and build an interactive dashboard to generate meaningful business insights.
 
 ---
 
-## 🎯 Business Questions Answered
+## 🎯 Business Questions Solved
 
-* Which age group is more likely to purchase a bike?
-* How does commute distance influence bike purchases?
-* Which region has the highest number of bike buyers?
-* What is the relationship between gender, income, and purchase decision?
+* Which age group is more likely to purchase bikes?
+* How does commute distance impact purchase decisions?
+* Which region has the highest bike buyers?
+* How income varies across gender in relation to purchases?
 
 ---
 
@@ -24,49 +24,62 @@ The objective of this project is to clean the raw data, perform exploratory anal
 * Data Cleaning & Transformation
 * Pivot Tables
 * Data Visualization (Charts)
-* Slicers for Interactivity
+* Slicers for Dashboard Interactivity
 * Dashboard Design & Layout
 
 ---
 
 ## 🔄 Data Analysis Workflow
 
-1. **Raw Data Preparation**
+### ✅ Data Cleaning
 
-   * Standardized categorical values (e.g., M/S → Married/Single)
-   * Converted gender abbreviations to full labels
-   * Created meaningful age brackets
-   * Structured commute distance categories
+* Standardized marital status values (M/S → Married/Single)
+* Converted gender labels (M/F → Male/Female)
+* Created Age Brackets for better analysis
+* Structured commute distance categories
 
-2. **Exploratory Analysis**
+### ✅ Exploratory Data Analysis
 
-   * Created Pivot Tables to analyze purchase patterns
-   * Compared income, age groups, and regional distribution
+* Created Pivot Tables to analyze purchase patterns
+* Compared age groups, regional distribution and income trends
 
-3. **Dashboard Development**
+### ✅ Dashboard Development
 
-   * Built multiple charts to visualize insights
-   * Added slicers for dynamic filtering (Region, Marital Status, Age Range, Education)
-   * Applied a consistent theme for better readability
+* Built multiple charts for visual insights
+* Added slicers for dynamic filtering (Region, Marital Status, Age Range, Education)
+* Applied a clean and consistent blue theme
 
 ---
 
 ## 📈 Dashboard Features
 
-* Interactive filters (Slicers)
-* Trend analysis charts
-* Category comparison visuals
-* Regional contribution view
-* Clean and professional layout
+* Fully interactive filters using slicers
+* Dynamic charts updating based on selection
+* Regional purchase distribution visualization
+* Age and commute-based trend analysis
+* Professional layout and storytelling approach
 
 ---
 
 ## 📂 Workbook Structure
 
 * **Sheet 1 — Bike Buyers Raw:** Original dataset
-* **Sheet 2 — Clean:** Transformed and prepared dataset
-* **Sheet 3 — Pivot:** Pivot tables used for analysis
-* **Sheet 4 — Dashboard:** Interactive visual dashboard
+* **Sheet 2 — Clean:** Cleaned and transformed dataset
+* **Sheet 3 — Pivot:** Analytical pivot tables
+* **Sheet 4 — Dashboard:** Final interactive dashboard
+
+---
+
+## 📷 Dashboard Preview
+
+<img width="1160" height="668" alt="image" src="https://github.com/Rakshitgupta9/Bike-Buyers-Sales-Dashboard-Excel/blob/main/dashboard_shreenshot.png" />
+
+---
+
+## 🎬 Dashboard Interaction Demo
+
+📽 Watch how slicers dynamically update charts:
+👉 https://github.com/Rakshitgupta9/Bike-Buyers-Sales-Dashboard-Excel/blob/main/dashboard_video.mp4
 
 ---
 
@@ -75,29 +88,23 @@ The objective of this project is to clean the raw data, perform exploratory anal
 1. Download the Excel file from this repository
 2. Open in Microsoft Excel
 3. Enable editing if prompted
-4. Use slicers on the dashboard to explore insights interactively
+4. Use slicers on the dashboard to explore insights
 
 ---
 
-## 📷 Dashboard Preview
-
-<img width="1160" height="668" alt="image" src="https://github.com/Rakshitgupta9/Bike-Buyers-Sales-Dashboard-Excel/blob/main/dashboard_shreenshot.png" />
-
-
----
 ## 📌 Key Learning Outcomes
 
-* Practical experience in Excel data cleaning
-* Understanding of Pivot-based analytical workflow
-* Dashboard storytelling and visualization skills
-* Building an end-to-end data analysis mini project
+* Hands-on experience in Excel data cleaning
+* Pivot-based analytical workflow understanding
+* Interactive dashboard building
+* Data storytelling using charts
 
 ---
 
 ## 🚀 Future Improvements
 
 * Add KPI summary cards
-* Improve layout spacing and alignment
+* Improve spacing and chart alignment
 * Convert this dashboard into Power BI / Tableau version
 
 ---
